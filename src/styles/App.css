@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(178, 250, 253);
+  margin: 0%;
+  padding: 0%;
+}
+
+nav {
+  text-align: center;
+  background-color: rgb(127, 229, 255);
+  padding: 20px;
+  margin: auto;
+}
+
+.link {
+  margin: 10px;
+}
+
+
+formgroup {
+  display:-webkit-inline-flex;
+}
+
+button {
+  margin: 3px;
+  border-radius: 10px;
+}
+
+div {
+  text-align: center;
+}
+.Forecast {
+    border: solid 1px black;
+    margin: 10px;
+}
+
+.ForecastCard {
+    margin-left: 20px   ;
+    margin: 10px;
+    display: inline-block;
+}
